@@ -1,0 +1,41 @@
+body{
+    background-color:#5bffee
+    ;
+}
+li{
+    background-color:#25c477;
+}
+body {
+  color: #c42525;
+}
+p{
+    color:blue;
+}
+body{
+    backface-visibility: visible
+}
+h3{
+    background-color:blue;
+    color:orange;
+}
+body{
+    font-family: monospace;
+        font-size: larger;
+        font-style: normal;
+         text-transform: capitalize;
+}
+nav{
+    font-family: serif;
+    text-transform: uppercase;
+}
+button:hover{
+    background-color: #7fa2db
+}
+navbutton:hover{
+    background-color: #7fa2db
+}
+nav:hover{
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
